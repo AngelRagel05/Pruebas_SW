@@ -14,7 +14,7 @@ Las pruebas se organizan siguiendo estrategias como el **Modelo en Espiral**, co
 4️⃣ **Pruebas de sistema** 💻
 
 📌 **Ejemplo de modelo en espiral:**
-![Modelo en Espiral](https://upload.wikimedia.org/wikipedia/commons/1/1b/Spiral_model_%28Boehm%2C_1988%29.png)
+![Modelo en Espiral](/img/Modelo_Espiral.png)
 
 ---
 
@@ -34,7 +34,7 @@ Las pruebas se organizan siguiendo estrategias como el **Modelo en Espiral**, co
 - **Prueba de picos** 📈: Cambios drásticos en la carga.
 
 📊 **Ejemplo de prueba de carga:**
-![Pruebas de carga](https://upload.wikimedia.org/wikipedia/commons/5/5e/LoadTestingDiagram.png)
+![Pruebas de carga](/img/Pruebas_Carga.png)
 
 ### 🔄 Pruebas de Regresión
 Verifican que los cambios no introduzcan nuevos errores.
@@ -62,7 +62,7 @@ Para diseñar y aplicar pruebas se siguen varios enfoques:
 - **Errores lógicos (bugs)** 🐛: No impiden la ejecución, pero generan resultados incorrectos.
 
 📌 **Ejemplo de depuración en un IDE:**
-![Depuración](https://upload.wikimedia.org/wikipedia/commons/6/6c/GDB_Debugger.png)
+![Depuración](/img/Depuración.png)
 
 Los depuradores permiten seguir la ejecución y encontrar errores fácilmente.
 
@@ -90,7 +90,7 @@ Estándares usados en la industria:
   - 12207, 15289, 29119.
 
 📌 **Ejemplo de flujo de pruebas en estándares IEEE:**
-![IEEE Pruebas](https://upload.wikimedia.org/wikipedia/commons/4/41/Testing-life-cycle.png)
+![IEEE Pruebas](/img/IIEE_Pruebas.png)
 
 ---
 
